@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/calvin-lloren-mikkelsen-3029101b0/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/WabiSabi99",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:calvin@mikkelsen.nl",
+      "icon": "mail"
+    }
+  ]
+}

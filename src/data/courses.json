@@ -1,0 +1,37 @@
+{
+  "course": [
+    {
+      "name": "Course:Narrative in Interactive systems",
+      "href": "www.aau.dk",
+      "title": "Narrative in Interactive systems",
+      "logo": "/AAU.png",
+      "start": "jan 2023",
+      "end": "jun 2023",
+      "description": [
+        "placeholder text",
+        "placeholder text",
+        "placeholder text"
+      ],
+      "links": [
+        {
+          "name": "placeholder",
+          "href": "https://www.aau.dk",
+          "icon": "globe"
+        },
+        {
+          "name": "placeholder",
+          "href": "https://www.aau.dk",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Real-Time Rendering",
+      "href": "https://www.aau.dk",
+      "title": "Real-Time Rendering",
+      "logo": "/AAU.png",
+      "start": "Jan 2014",
+      "end": "Sep 2013"
+    }
+  ]
+}

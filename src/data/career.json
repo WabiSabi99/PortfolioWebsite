@@ -1,0 +1,42 @@
+{
+  "career": [
+    {
+      "name": "AR-Simply",
+      "href": "https://ar-simply.com/",
+      "title": "Internship",
+      "logo": "/ARS.png",
+      "start": "sep 2023",
+      "end": "Feb 2024",
+      "description": [
+        "Created a web application for AR-Simply, a company that specializes in augmented reality solutions.",
+        "test test test test test test test test test test test test test test test test test test test test  test test test test test test",
+        "test"
+      ],
+      "links": [
+        {
+          "name": "Final Year Project",
+          "href": "https://games.digipen.edu/games/rapid-ride-fight",
+          "icon": "globe"
+        },
+        {
+          "name": "2nd Year Project",
+          "href": "https://games.digipen.edu/games/glowing-under",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "AR-Simply",
+      "href": "https://ar-simply.com/",
+      "title": "Bachelor of Science (B.Sc) in Medialogy",
+      "logo": "/ARS.png",
+      "start": "Dec 2024",
+      "end": "Feb 2025",
+            "description": [
+        "Created a web application for AR-Simply, a company that specializes in augmented reality solutions.",
+        "The web application was designed to enhance user experience and provide interactive features.",
+        "The web application was built using modern web technologies, ensuring responsiveness and accessibility, such as React,Node.js,postgreSQL, and Tailwind CSS."
+      ]
+    }
+  ]
+}

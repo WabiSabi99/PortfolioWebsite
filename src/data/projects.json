@@ -1,0 +1,121 @@
+{
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Short project description goes here...",
+      "image": "/placeholder.png",
+      "tags": [
+        "Technology1",
+        "Technology2",
+        "Technology3"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://placeholder.website",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/placeholder/repo",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "description": "Short project description goes here...",
+      "image": "/placeholder.png",
+      "tags": [
+        "Technology1",
+        "Technology2"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/placeholder/repo",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "description": "Short project description goes here...",
+      "href": "https://placeholder.website",
+      "image": "/placeholder.png",
+      "tags": [
+        "Technology1",
+        "Technology2",
+        "Technology3"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://placeholder.website",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "description": "Short project description goes here...",
+      "href": "https://placeholder.website",
+      "image": "/placeholder.png",
+      "tags": [
+        "Technology1",
+        "Technology2"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://placeholder.website",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/placeholder/repo",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "description": "Short project description goes here...",
+      "href": "https://placeholder.website",
+      "image": "/placeholder.png",
+      "tags": [
+        "Technology1",
+        "Technology2"
+      ],
+      "links": [
+        {
+          "name": "Gameplay",
+          "href": "https://youtube.com/placeholder",
+          "icon": "youtube"
+        },
+        {
+          "name": "Trailer",
+          "href": "https://youtube.com/placeholder",
+          "icon": "youtube"
+        }
+      ]
+    },
+    {
+      "name": "Project Name",
+      "description": "Short project description goes here...",
+      "href": "https://placeholder.website",
+      "image": "/placeholder.png",
+      "tags": [
+        "Technology1",
+        "Technology2"
+      ],
+      "links": [
+        {
+          "name": "Trailer",
+          "href": "https://youtube.com/placeholder",
+          "icon": "youtube"
+        }
+      ]
+    }
+  ]
+}
